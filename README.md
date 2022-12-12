@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+https://dashboard-4-jasonlim.vercel.app/dashboard
+
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/206984840-a258ec6d-e2dd-4462-b3ce-4be21e4bdb02.png)
+
+
 npm i recharts remixicon react-router-dom
 npm i react-circular-progressbar
 
